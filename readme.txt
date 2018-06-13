@@ -1,0 +1,2 @@
+Task:
+To create own implementation of collections: ArrayList, LinkedList, HashMap, and to implement its basic methods: addLast(E elem), addTo(int index, E elem), set(int index, E elem), getElem(int index), indexOf(E elem), remove(int index), remove(E elem), size(), sort(Comparator<E> comp), interface Iterable for lists, insert(E key, K value), getValue(E key), delete(E key), size(), interface Iterable for map.
